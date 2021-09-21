@@ -17,4 +17,5 @@ class Person:
         Email: {self.email}
         """
 
-    
+class Student(Person):
+    pass
