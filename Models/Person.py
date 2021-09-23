@@ -16,6 +16,3 @@ class Person:
         Phone: {self.phone}
         Email: {self.email}
         """
-
-class Student(Person):
-    pass
